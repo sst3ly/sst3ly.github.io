@@ -1,0 +1,43 @@
+body {
+    min-width:90px;
+    max-width:200px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-all;
+    word-break: break-word;
+    hyphens: auto;
+    background-color: maroon;
+    text-align: center;
+}
+
+div {
+	background-color: goldenrod;
+	margin: 2%;
+	min-width:90px;
+    max-width:200px;
+    text-align: center;
+}
+
+#headings {
+	background-color: goldenrod;
+	margin: 2%;
+	min-width:90px;
+    max-width:200px;
+    text-align: center;
+}
+
+#navbar {
+	background-color: goldenrod;
+	margin: 2%;
+	min-width:90px;
+    max-width:200px;
+    text-align: center;
+}
+
+#paragraphs {
+	background-color: goldenrod;
+	margin: 2%;
+	min-width:90px;
+    max-width:200px;
+    text-align: center;
+}
