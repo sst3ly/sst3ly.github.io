@@ -1,3 +1,3 @@
 function go(){
-  document.getElementById("para").innerHtml = "YOU PRESSED IT! YAY!"
+  document.getElementById("para").innerHTML = "YOU PRESSED IT! YAY!"
 }
